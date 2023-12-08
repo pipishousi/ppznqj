@@ -30,6 +30,11 @@
             "\u535a\u4e3b\u4e3b\u9875": "https://www.xiaohongshu.com/user/profile/5bd6c3e99816500001d50489?xhsshare=CopyLink&appuid=5bd6c3e99816500001d50489&apptime=1702057301",
             "\u6253\u8d4f\u535a\u4e3b": "\u8fd8\u6ca1\u5f00\u653e\u54e6"
         },
+        "regularStencil":
+        {
+            "money": "-%3F%C2%A5%5Cs*%5B0-9,%5D+(%5C.%5Cd+)%3F%7C-%3F%5Cd%7B1,3%7D(,%5Cd%7B3%7D)*(%5C.%5Cd+)%3F%5B%E5%85%83%5D*",
+            "timeAbstract": "(%5Cd%7B4%7D%5B%E5%B9%B4/-%5D%5Cd%7B1,2%7D%5B%E6%9C%88/-%5D%5Cd%7B1,2%7D%5B%E6%97%A5%5D%3F%20%5Cd%7B1,2%7D:%5Cd%7B1,2%7D:%5Cd%7B1,2%7D)"
+        },
         "reward_state": "false",
         "apiToken":"uskOBqjGmRhYt4DpW4SjiaA",
         "datasheeted":"dst5578XYcx1r9aFkT",
