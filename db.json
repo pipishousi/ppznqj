@@ -1,8 +1,8 @@
 {
     "information":
     {
-        "menu": "作者：皮皮 | 更新时间：2023-12-07",
-        "name": "智能取件",
+        "menu": "\u4f5c\u8005\uff1a\u76ae\u76ae | \u66f4\u65b0\u65f6\u95f4\uff1a2023-12-07",
+        "name": "\u667a\u80fd\u53d6\u4ef6",
         "version": 1.1,
         "url": "http://z6b.cn/CJJQJ",
         "help":
@@ -15,8 +15,8 @@
         },
     "ppjzxx":
     {
-        "menu": "作者：皮皮 | 更新时间：2023-12-07",
-        "name": "皮皮vika记账",
+        "menu": "\u4f5c\u8005\uff1a\u76ae\u76ae | \u66f4\u65b0\u65f6\u95f4\uff1a2023-12-07",
+        "name": "\u76ae\u76aevika\u8bb0\u8d26",
         "version": 2.0,
         "url": "",
         "help":
@@ -26,9 +26,9 @@
         },
         "reward":
         {
-            "\u524d\u5f80\u66f4\u65b0": "还没更新哦",
+            "\u524d\u5f80\u66f4\u65b0": "\u8fd8\u6ca1\u66f4\u65b0\u54e6",
             "\u535a\u4e3b\u4e3b\u9875": "https://www.xiaohongshu.com/user/profile/5bd6c3e99816500001d50489?xhsshare=CopyLink&appuid=5bd6c3e99816500001d50489&apptime=1702057301",
-            "\u6253\u8d4f\u535a\u4e3b": "还没开放哦"
+            "\u6253\u8d4f\u535a\u4e3b": "\u8fd8\u6ca1\u5f00\u653e\u54e6"
         },
         "reward_state": "false"
     }
